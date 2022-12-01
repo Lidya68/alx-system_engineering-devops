@@ -1,2 +1,2 @@
 #!/bin/push
-chmod -R +X _
+chmod -R +X .
